@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PosVistas</string>
+    <string name="str_title">Inception Drive</string>
+    <string name="txt_contenido">Last year, SRI’s Alexander Kernbaum introduced us to Abacus Drive, a new kind of rotary transmission based on pure rolling motion that promises to be much cheaper and much more energy efficient than harmonic gears, which are the current (and quite expensive) standard. Now Kernbaum is back with another ingenious—and cleverly named—transmission design. It’s called Inception Drive, and he describes it as “an ultra-compact, infinitely variable transmission based on a novel nested-pulley configuration” that’s designed to make robots—and all kinds of other things—safer, more affordable, and vastly more efficient.
+
+In an infinitely variable transmission (IVT), which is a specific kind of continuously variable transmission, the transmission ratio includes a zero point that can be approached from either a positive side or a negative side. In other words, a constant input, like an electric motor turning the same direction at the same speed, can be converted to an output that’s turning faster, turning slower, turning in the opposite direction, or not turning at all (in this “geared neutral” mode, you’d need infinite input revolutions to cause one output revolution, hence the name “infinitely variable transmission”).</string>
+    <string name="img">img</string>
+</resources>
